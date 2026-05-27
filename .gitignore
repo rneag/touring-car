@@ -1,0 +1,8 @@
+# Ignore build artifacts and temporary environment folders
+.pio/
+.vscode/
+build/
+*.hex
+*.elf
+*.bin
+*.o
