@@ -24,7 +24,7 @@ https://youtube.com/shorts/jJCe7olzHS4
 | Motor driver | L298N |
 | Bluetooth module | HC-05 |
 | Distance sensor | HC-SR04 |
-| Power | 4× AA batteries → L298N 12V input (onboard regulator powers the rest at 5V) |
+| Power | 6× AA batteries → L298N 12V input (onboard regulator powers the rest at 5V) |
 
 ### Pinout
 
